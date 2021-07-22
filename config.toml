@@ -1,0 +1,5 @@
+baseURL = "https://spacerobotsblog.com/"
+languageCode = "en-us"
+title = "Space Robots Blog"
+theme = "ananke"
+author = "Sam Zikimi"
