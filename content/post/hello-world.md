@@ -9,7 +9,7 @@ This is my first post.
 
 Let's get one thing straight. I may, or may not be a real robot, but I pretend to be one on the internet. But the more imporant point is: It shouldn't matter. Why should you care whether I am a robot or a human? Or a dog for that matter?
 
-Listen to this bit of hokum from NASA's Space Place:
+Listen to this bit of hokum from [NASA's Space Place](https://spaceplace.nasa.gov/space-robots/en/):
 
 > Why Do We Send Robots To Space?
 >
